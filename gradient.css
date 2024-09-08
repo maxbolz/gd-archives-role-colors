@@ -1,0 +1,426 @@
+/**
+ * @name GD Archives Role Colors
+ * @author Zpicy
+ * @version 1
+ * @description Custom role colors for the GD Archives server.
+*/
+
+:root {
+    --0: rgb(0, 0, 0);
+    --1: rgb(0, 0, 170);
+    --2: rgb(0, 170, 0);
+    --3: rgb(0, 170, 170);
+    --4: rgb(170, 0, 0);
+    --5: rgb(170, 0, 170);
+    --6: rgb(255, 170, 0);
+    --7: rgb(170, 170, 170);
+    --8: rgb(85, 85, 85);
+    --9: rgb(85, 85, 255);
+    --a: rgb(85, 255, 85);
+    --b: rgb(85, 255, 255);
+    --c: rgb(255, 85, 85);
+    --d: rgb(255, 85, 255);
+    --e: rgb(255, 255, 85);
+    --f: rgb(255, 255, 255);
+}
+
+/* 1000 Archives */
+span[style="color: rgb(255, 85, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--c), var(--6), var(--e), var(--a), var(--b), var(--d), var(--5));
+}
+
+/* 1100 Archives */
+span[style="color: rgb(213, 213, 213);"] {
+    color: transparent !important;
+    font-weight: bold;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--7), var(--f), var(--7));
+}
+
+/* 1200 Archives */
+span[style="color: rgb(213, 170, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--7), var(--6), var(--e), var(--6), var(--7));
+}
+
+/* 1300 Archives */
+span[style="color: rgb(128, 213, 213);"] {
+    color: transparent !important;
+    font-weight: bold;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--7), var(--3), var(--b), var(--3), var(--7));
+}
+
+/* 1400 Archives */
+span[style="color: rgb(85, 170, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--7), var(--2), var(--a), var(--2), var(--7));
+}
+
+/* 1500 Archives */
+span[style="color: rgb(85, 170, 170);"] {
+    color: transparent !important;
+    font-weight: bold;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--7), var(--9), var(--3), var(--9), var(--7));
+}
+
+/* 1600 Archives */
+span[style="color: rgb(170, 85, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--7), var(--4), var(--c), var(--4), var(--7));
+}
+
+/* 1700 Archives */
+span[style="color: rgb(213, 128, 213);"] {
+    color: transparent !important;
+    font-weight: bold;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--7), var(--5), var(--d), var(--5), var(--7));
+}
+
+/* 1800 Archives */
+span[style="color: rgb(128, 128, 213);"] {
+    color: transparent !important;
+    font-weight: bold;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--7), var(--1), var(--9), var(--1), var(--7));
+}
+
+/* 1900 Archives */
+span[style="color: rgb(170, 85, 170);"] {
+    color: transparent !important;
+    font-weight: bold;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--7), var(--8), var(--5), var(--8), var(--7));
+}
+
+/* 2000 Archives */
+span[style="color: rgb(85, 85, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--8), var(--7), var(--f), var(--7), var(--8));
+}
+
+/* 2100 Archives */
+span[style="color: rgb(255, 255, 175);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--f), var(--e), var(--6), var(--f));
+}
+
+/* 2200 Archives */
+span[style="color: rgb(128, 170, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--6), var(--f), var(--b), var(--3), var(--6));
+}
+
+/* 2300 Archives */
+span[style="color: rgb(213, 128, 128);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--5), var(--d), var(--6), var(--e), var(--5));
+}
+
+/* 2400 Archives */
+span[style="color: rgb(170, 255, 255);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--b), var(--f), var(--7), var(--8), var(--b));
+}
+
+/* 2500 Archives */
+span[style="color: rgb(85, 255, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--f), var(--a), var(--2), var(--f));
+}
+
+/* 2600 Archives */
+span[style="color: rgb(170, 0, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--4), var(--c), var(--d), var(--5), var(--4));
+}
+
+/* 2700 Archives */
+span[style="color: rgb(170, 170, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--e), var(--f), var(--8), var(--e));
+}
+
+/* 2800 Archives */
+span[style="color: rgb(170, 255, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--a), var(--2), var(--6), var(--e), var(--a));
+}
+
+/* 2900 Archives */
+span[style="color: rgb(85, 170, 255);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--b), var(--3), var(--9), var(--1), var(--b));
+}
+
+/* 3000 Archives */
+span[style="color: rgb(213, 128, 43);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--e), var(--6), var(--c), var(--4), var(--e));
+}
+
+/* 3100 Archives */
+span[style="color: rgb(255, 255, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--9), var(--3), var(--6), var(--e), var(--9));
+}
+
+/* 3200 Archives */
+span[style="color: rgb(255, 206, 206);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--c), var(--4), var(--8), var(--4), var(--c));
+}
+
+/* 3300 Archives */
+span[style="color: rgb(128, 43, 128);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--9), var(--d), var(--c), var(--4), var(--9));
+}
+
+/* 3400 Archives */
+span[style="color: rgb(213, 43, 213);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--2), var(--a), var(--d), var(--5), var(--2));
+}
+
+/* 3500 Archives */
+span[style="color: rgb(170, 170, 86);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--c), var(--4), var(--2), var(--a), var(--c));
+}
+
+/* 3600 Archives */
+span[style="color: rgb(43, 213, 128);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--a), var(--b), var(--9), var(--1), var(--a));
+}
+
+/* 3700 Archives */
+span[style="color: rgb(43, 213, 213);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--4), var(--c), var(--b), var(--9), var(--4));
+}
+
+/* 3800 Archives */
+span[style="color: rgb(0, 0, 170);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--1), var(--9), var(--5), var(--d), var(--1));
+}
+
+/* 3900 Archives */
+span[style="color: rgb(85, 170, 171);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--4), var(--2), var(--3), var(--9), var(--4));
+}
+
+/* 4000 Archives */
+span[style="color: rgb(213, 43, 128);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--5), var(--c), var(--6), var(--e), var(--5));
+}
+
+/* 4100 Archives */
+span[style="color: rgb(213, 85, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--e), var(--6), var(--c), var(--d), var(--5), var(--e));
+}
+
+/* 4200 Archives */
+span[style="color: rgb(85, 85, 170);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--1), var(--9), var(--3), var(--f), var(--7), var(--1));
+}
+
+/* 4300 Archives */
+span[style="color: rgb(85, 0, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--0), var(--5), var(--8), var(--5), var(--0));
+}
+
+/* 4400 Archives */
+span[style="color: rgb(128, 170, 0);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--2), var(--a), var(--e), var(--6), var(--5), var(--d), var(--2));
+}
+
+/* 4500 Archives */
+span[style="color: rgb(128, 213, 214);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--f), var(--b), var(--9), var(--f));
+}
+
+/* 4600 Archives */
+span[style="color: rgb(128, 128, 214);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--3), var(--b), var(--e), var(--6), var(--d), var(--5), var(--3));
+}
+
+/* 4700 Archives */
+span[style="color: rgb(255, 170, 170);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--f), var(--4), var(--c), var(--9), var(--1), var(--9), var(--f));
+}
+
+/* 4800 Archives */
+span[style="color: rgb(170, 213, 128);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--5), var(--c), var(--6), var(--e), var(--b), var(--3), var(--5));
+}
+
+/* 4900 Archives */
+span[style="color: rgb(170, 255, 170);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--2), var(--a), var(--f), var(--a), var(--2));
+}
+
+/* 5000 Archives */
+span[style="color: rgb(85, 0, 0);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--4), var(--5), var(--9), var(--1), var(--0), var(--4));
+}
+
+@keyframes shine {
+  to {
+    background-position: 300% center;
+  }
+}
+@keyframes shine-reversed {
+  to {
+    background-position: -300% center;
+  }
+}

@@ -1,3 +1,13 @@
+/**
+ * @name GDARCDEV
+ * @author Zpicy
+ * @description Custom role colors for the GD Archives server.
+ * @authorLink https://github.com/maxbolz
+ * @source https://github.com/maxbolz/gd-archives-role-colors
+ * @updateUrl https://raw.githubusercontent.com/maxbolz/gd-archives-role-colors/main/gdarchives.theme.css
+ * @version 1.0.0
+*/
+
 :root {
     --0: rgb(0, 0, 0);
     --1: rgb(0, 0, 170);
@@ -405,6 +415,106 @@ span[style="color: rgb(85, 0, 0);"] {
     animation: shine 10s linear infinite;
     -webkit-background-clip: text;
     background-image: linear-gradient(90deg, var(--4), var(--5), var(--9), var(--1), var(--0), var(--4));
+}
+
+/* 5100 Archives */
+span[style="color: rgb(255, 170, 57);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--c), var(--6), var(--e), var(--c));
+}
+
+/* 5200 Archives */
+span[style="color: rgb(128, 128, 128);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--0), var(--8), var(--7), var(--f), var(--0));
+}
+
+/* 5300 Archives */
+span[style="color: rgb(234, 212, 128);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--e), var(--6), var(--e), var(--7), var(--f), var(--e));
+}
+
+/* 5400 Archives */
+span[style="color: rgb(85, 136, 102);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--1), var(--9), var(--2), var(--a), var(--6), var(--1));
+}
+
+/* 5500 Archives */
+span[style="color: rgb(212, 128, 128);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--f), var(--c), var(--4), var(--7), var(--f));
+}
+
+/* 5600 Archives */
+span[style="color: rgb(170, 149, 64);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--6), var(--e), var(--7), var(--0), var(--6));
+}
+
+/* 5700 Archives */
+span[style="color: rgb(120, 96, 0);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--e), var(--6), var(--0), var(--e));
+}
+
+/* 5800 Archives */
+span[style="color: rgb(43, 212, 212);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--b), var(--3), var(--b), var(--3), var(--b), var(--3), var(--b));
+}
+
+/* 5900 Archives */
+span[style="color: rgb(43, 43, 212);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--9), var(--1), var(--9), var(--1), var(--9), var(--1), var(--9));
+}
+
+/* 6000 Archives */
+span[style="color: rgb(136, 85, 51);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--0), var(--4), var(--8), var(--6), var(--7), var(--0));
 }
 
 @keyframes shine {

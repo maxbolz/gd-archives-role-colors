@@ -1,13 +1,3 @@
-/**
- * @name GDARCDEV
- * @author Zpicy
- * @description Custom role colors for the GD Archives server.
- * @authorLink https://github.com/maxbolz
- * @source https://github.com/maxbolz/gd-archives-role-colors
- * @updateUrl https://raw.githubusercontent.com/maxbolz/gd-archives-role-colors/main/gdarchives.theme.css
- * @version 1.1.0
-*/
-
 :root {
     --0: rgb(0, 0, 0);
     --1: rgb(0, 0, 170);

@@ -320,8 +320,8 @@ span[style="color: rgb(213, 85, 85);"] {
 span[style="color: rgb(213, 85, 85);"]::after {
     content: attr(data-text); /* assuming you're using a data-text attribute to hold the text */
     position: absolute;
-    top: 2px; /* adjust as needed */
-    left: 2px; /* adjust as needed */
+    top: 20px; /* adjust as needed */
+    left: 20px; /* adjust as needed */
     z-index: -1;
     color: transparent;
     font-weight: bold;

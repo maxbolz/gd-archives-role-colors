@@ -317,6 +317,20 @@ span[style="color: rgb(213, 85, 85);"] {
     background-image: linear-gradient(90deg, var(--e), var(--6), var(--c), var(--d), var(--5), var(--e));
 }
 
+span[style="color: rgb(213, 85, 85);"]::after {
+    content: attr(data-text); /* assuming you're using a data-text attribute to hold the text */
+    position: absolute;
+    top: 2px; /* adjust as needed */
+    left: 2px; /* adjust as needed */
+    z-index: -1;
+    color: transparent;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 10s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--e), var(--6), var(--c), var(--d), var(--5), var(--e));
+}
+
 /* 4200 Archives */
 span[style="color: rgb(85, 85, 170);"] {
     color: transparent !important;

@@ -1517,6 +1517,306 @@ span[style^="color: rgb(136, 85, 51);"][class^="role"]:hover::before {
     opacity: 0.3;
 }
 
+/* 6100 Archives */
+span[style^="color: rgb(191, 170, 170);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--6), var(--9), var(--7), var(--f), var(--6));
+}
+
+/* 6100 Archives */
+span[style^="color: rgb(191, 170, 170);"][class^="role"]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, var(--6), var(--9), var(--7), var(--f), var(--6));
+    opacity: 0.1;
+    z-index: -1;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+}
+
+/* 6100 Archives */
+span[style^="color: rgb(191, 170, 170);"][class^="role"]:hover::before {
+    opacity: 0.3;
+}
+
+/* 6200 Archives */
+span[style^="color: rgb(234, 128, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--4), var(--c), var(--4), var(--6), var(--7), var(--4));
+}
+
+/* 6200 Archives */
+span[style^="color: rgb(234, 128, 85);"][class^="role"]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, var(--4), var(--c), var(--4), var(--6), var(--7), var(--4));
+    opacity: 0.1;
+    z-index: -1;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+}
+
+/* 6200 Archives */
+span[style^="color: rgb(234, 128, 85);"][class^="role"]:hover::before {
+    opacity: 0.3;
+}
+
+/* 6300 Archives */
+span[style^="color: rgb(187, 102, 34);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--0), var(--4), var(--c), var(--6), var(--e), var(--0));
+}
+
+/* 6300 Archives */
+span[style^="color: rgb(187, 102, 34);"][class^="role"]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, var(--0), var(--4), var(--c), var(--6), var(--e), var(--0));
+    opacity: 0.1;
+    z-index: -1;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+}
+
+/* 6300 Archives */
+span[style^="color: rgb(187, 102, 34);"][class^="role"]:hover::before {
+    opacity: 0.3;
+}
+
+/* 6400 Archives */
+span[style^="color: rgb(136, 68, 204);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--7), var(--9), var(--1), var(--5), var(--d), var(--7));
+}
+
+/* 6400 Archives */
+span[style^="color: rgb(136, 68, 204);"][class^="role"]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, var(--7), var(--9), var(--1), var(--5), var(--d), var(--7));
+    opacity: 0.1;
+    z-index: -1;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+}
+
+/* 6400 Archives */
+span[style^="color: rgb(136, 68, 204);"][class^="role"]:hover::before {
+    opacity: 0.3;
+}
+
+/* 6500 Archives */
+span[style^="color: rgb(170, 170, 171);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--e), var(--7), var(--9), var(--e));
+}
+
+/* 6500 Archives */
+span[style^="color: rgb(170, 170, 171);"][class^="role"]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, var(--e), var(--7), var(--9), var(--e));
+    opacity: 0.1;
+    z-index: -1;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+}
+
+/* 6500 Archives */
+span[style^="color: rgb(170, 170, 171);"][class^="role"]:hover::before {
+    opacity: 0.3;
+}
+
+/* 6600 Archives */
+span[style^="color: rgb(212, 43, 128);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--d), var(--5), var(--c), var(--4), var(--d));
+}
+
+/* 6600 Archives */
+span[style^="color: rgb(212, 43, 128);"][class^="role"]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, var(--d), var(--5), var(--c), var(--4), var(--d));
+    opacity: 0.1;
+    z-index: -1;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+}
+
+/* 6600 Archives */
+span[style^="color: rgb(212, 43, 128);"][class^="role"]:hover::before {
+    opacity: 0.3;
+}
+
+/* 6700 Archives */
+span[style^="color: rgb(28, 142, 85);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--8), var(--3), var(--2), var(--8));
+}
+
+/* 6700 Archives */
+span[style^="color: rgb(28, 142, 85);"][class^="role"]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, var(--8), var(--3), var(--2), var(--8));
+    opacity: 0.1;
+    z-index: -1;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+}
+
+/* 6700 Archives */
+span[style^="color: rgb(28, 142, 85);"][class^="role"]:hover::before {
+    opacity: 0.3;
+}
+
+/* 6800 Archives */
+span[style^="color: rgb(85, 28, 28);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--0), var(--8), var(--4), var(--0));
+}
+
+/* 6800 Archives */
+span[style^="color: rgb(85, 28, 28);"][class^="role"]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, var(--0), var(--8), var(--4), var(--0));
+    opacity: 0.1;
+    z-index: -1;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+}
+
+/* 6800 Archives */
+span[style^="color: rgb(85, 28, 28);"][class^="role"]:hover::before {
+    opacity: 0.3;
+}
+
+/* 6900 Archives */
+span[style^="color: rgb(43, 170, 128);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--a), var(--2), var(--3), var(--9), var(--a));
+}
+
+/* 6900 Archives */
+span[style^="color: rgb(43, 170, 128);"][class^="role"]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, var(--a), var(--2), var(--3), var(--9), var(--a));
+    opacity: 0.1;
+    z-index: -1;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+}
+
+/* 6900 Archives */
+span[style^="color: rgb(43, 170, 128);"][class^="role"]:hover::before {
+    opacity: 0.3;
+}
+
+/* 7000 Archives */
+span[style^="color: rgb(255, 227, 113);"] {
+    color: transparent !important;
+    font-weight: bold;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, var(--6), var(--e), var(--f), var(--6));
+}
+
+/* 7000 Archives */
+span[style^="color: rgb(255, 227, 113);"][class^="role"]::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(90deg, var(--6), var(--e), var(--f), var(--6));
+    opacity: 0.1;
+    z-index: -1;
+    background-size: 300%;
+    animation: shine 5s linear infinite;
+}
+
+/* 7000 Archives */
+span[style^="color: rgb(255, 227, 113);"][class^="role"]:hover::before {
+    opacity: 0.3;
+}
+
 @keyframes shine {
     to {
         background-position: 300% center;
